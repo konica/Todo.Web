@@ -1,0 +1,17 @@
+C:\Exercises\Todo.Web\Todo.Web\bin\Todo.Web.dll.config
+C:\Exercises\Todo.Web\Todo.Web\bin\Todo.Web.dll
+C:\Exercises\Todo.Web\Todo.Web\bin\Todo.Web.pdb
+C:\Exercises\Todo.Web\Todo.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Exercises\Todo.Web\Todo.Web\bin\Newtonsoft.Json.dll
+C:\Exercises\Todo.Web\Todo.Web\bin\System.Net.Http.Formatting.dll
+C:\Exercises\Todo.Web\Todo.Web\bin\System.Web.Http.dll
+C:\Exercises\Todo.Web\Todo.Web\bin\System.Web.Http.WebHost.dll
+C:\Exercises\Todo.Web\Todo.Web\bin\System.Web.Razor.dll
+C:\Exercises\Todo.Web\Todo.Web\bin\Newtonsoft.Json.xml
+C:\Exercises\Todo.Web\Todo.Web\bin\System.Net.Http.Formatting.xml
+C:\Exercises\Todo.Web\Todo.Web\bin\System.Web.Http.xml
+C:\Exercises\Todo.Web\Todo.Web\bin\System.Web.Http.WebHost.xml
+C:\Exercises\Todo.Web\Todo.Web\bin\System.Web.Razor.xml
+C:\Exercises\Todo.Web\Todo.Web\obj\Debug\Todo.Web.csprojResolveAssemblyReference.cache
+C:\Exercises\Todo.Web\Todo.Web\obj\Debug\Todo.Web.dll
+C:\Exercises\Todo.Web\Todo.Web\obj\Debug\Todo.Web.pdb

@@ -1,0 +1,39 @@
+<package>
+  <metadata>
+    <id>Todo.Web</id>
+    <version>1.0.0-BETA</version>
+    <authors>Trung Thao</authors>
+    <owners>Trung Thao</owners>
+    <tags>OctopusDeploy</tags>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Todo.Web deployment package, built on 7/9/2017</description>
+    <releaseNotes>It's the first release.</releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Exercises\Todo.Web\Todo.Web\index.html" target="index.html" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\Scripts\controller.js" target="Scripts\controller.js" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\Scripts\model.js" target="Scripts\model.js" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\Scripts\ramda.js" target="Scripts\ramda.js" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\Scripts\view.js" target="Scripts\view.js" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\Content\Site.css" target="Content\Site.css" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\Global.asax" target="Global.asax" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\Scripts\jquery.js" target="Scripts\jquery.js" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\Web.config" target="Web.config" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\Todo.Web.dll.config" target="bin\Todo.Web.dll.config" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\Todo.Web.dll" target="bin\Todo.Web.dll" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\Todo.Web.pdb" target="bin\Todo.Web.pdb" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\Microsoft.Web.Infrastructure.dll" target="bin\Microsoft.Web.Infrastructure.dll" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\System.Net.Http.Formatting.dll" target="bin\System.Net.Http.Formatting.dll" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\System.Web.Http.dll" target="bin\System.Web.Http.dll" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\System.Web.Http.WebHost.dll" target="bin\System.Web.Http.WebHost.dll" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\System.Web.Razor.dll" target="bin\System.Web.Razor.dll" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\Newtonsoft.Json.xml" target="bin\Newtonsoft.Json.xml" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\System.Net.Http.Formatting.xml" target="bin\System.Net.Http.Formatting.xml" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\System.Web.Http.xml" target="bin\System.Web.Http.xml" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\System.Web.Http.WebHost.xml" target="bin\System.Web.Http.WebHost.xml" />
+    <file src="C:\Exercises\Todo.Web\Todo.Web\bin\System.Web.Razor.xml" target="bin\System.Web.Razor.xml" />
+  </files>
+</package>
